@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Ahmed Mansour](https://github.com/a7hmedmansour)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mansour-7855b0221/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
